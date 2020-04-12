@@ -8,6 +8,7 @@ So.. you want to be lazy?
 --------------------------------------------------------------------------------------------------------------------
 FOR WINBLOWS:
 For you windows users: u need to make a shortcut of the shell script(.bat) and copy that into your startup folder.
+That bat file should follow the format of mine
 you can find your startup folder by doing Windows+R and type in "shell:startup" and move that shortcut into there 
 wolla it should work on start up
 
