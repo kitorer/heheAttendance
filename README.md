@@ -4,7 +4,7 @@
 feel free to modify for your own classes 
 this script automatically opens your default browser and it uses cookies to automatically login to your canvas account 
 
-your probably going to have to create a exe file for the script so youre just going to have to look up how to convert the recompiled .py to exe :) or do some other fuckery on linux haha
+your probably going to have to create a new exe file for the script so youre just going to have to look up how to convert the recompiled .py to exe :) or do some other fuckery on linux haha
 
 So.. you want to be lazy? 
 --------------------------------------------------------------------------------------------------------------------
